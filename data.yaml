@@ -1,0 +1,6 @@
+test: Dataset\test\images
+train: Dataset\train\images
+val: Dataset\val\images
+
+nc: 1
+names: ['SignBoard']
